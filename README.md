@@ -1,1 +1,1 @@
-# MWCGan
+# DestripeCycleGan
